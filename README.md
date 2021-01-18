@@ -3,11 +3,13 @@
 
 # react-ssr-adsense
 
-react-ssr-adsense is a React-ssr-component for Google AdSense。
+react-ssr-adsense is a React-ssr-component for Google AdSense。support #nextjs
 
 [![npm](https://img.shields.io/npm/v/react-ssr-adsense.svg)](https://www.npmjs.com/package/react-ssr-adsense)
 [![npm](https://img.shields.io/npm/dm/react-ssr-adsense.svg)](https://www.npmjs.com/package/react-ssr-adsense)
 [![npm](https://img.shields.io/npm/l/react-ssr-adsense.svg)](https://www.npmjs.com/package/react-ssr-adsense)
+
+demo: [https://www.douyacun.com](https://www.douyacun.com)
 
 # 1. Install
 
