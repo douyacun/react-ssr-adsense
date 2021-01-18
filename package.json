@@ -1,6 +1,6 @@
 {
   "name": "react-ssr-adsense",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react接google adsense，支持服务端渲染",
   "main": "lib/index.js",
   "scripts": {
