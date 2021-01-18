@@ -1,0 +1,43 @@
+{
+  "name": "react-ssr-adsense",
+  "version": "1.0.0",
+  "description": "react接google adsense，支持服务端渲染",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "ssr",
+    "google adsense",
+    "nextjs",
+    "服务端渲染",
+    "google广告"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douyacun/react-ssr-adsense.git"
+  },
+  "author": "douyacun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/douyacun/react-ssr-adsense/issues"
+  },
+  "homepage": "https://github.com/douyacun/react-ssr-adsense#readme",
+  "dependencies": {
+    "@babel/cli": "^7.12.10",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "html-webpack-plugin": "^4.5.1",
+    "terser-webpack-plugin": "^5.0.3",
+    "webpack": "^5.11.1",
+    "webpack-cli": "^4.3.1"
+  }
+}
